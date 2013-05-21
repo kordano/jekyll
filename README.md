@@ -1,6 +1,6 @@
-# jekyll (deprecated) -> moved to https://github.com/lamda-lang/jekyll
+# jekyll (deprecated) 
 
-A Clojure library designed to ... well, that part is up to you.
+moved to https://github.com/lamda-lang/jekyll
 
 ## Usage
 
