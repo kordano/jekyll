@@ -1,4 +1,4 @@
-# jekyll
+# jekyll (deprecated) -> moved to https://github.com/lamda-lang/jekyll
 
 A Clojure library designed to ... well, that part is up to you.
 
